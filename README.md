@@ -1,12 +1,12 @@
 # To-Do List Application
 ## Description
-this is a simple python To-Do List Application.
+this is a simple Python To-Do List Application.
 ## Features
 -Add Tasks
--View Taska
+-View Tasks
 -Delete Tasks
 -Exit Application
 ## Technology Used
--python
+-Python
 ## Developed By 
 Vipparla Vasumathi
